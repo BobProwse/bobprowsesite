@@ -1,0 +1,101 @@
+---
+title: "Services"
+format: html
+---
+
+::: {.panel-tabset}
+
+## Practitioners
+
+We work in partnership with a range of Consultants to provide complimentary services. Here are the current partners:
+
+::: {.panel-tabset}
+
+## Brett
+
+![Brett](/media/brett.jpg "Title: Brett"){fig-alt="Picture of Brett."}
+
+Brett Cooper
+
+Massage Therapist
+
+BMC Therapies
+07940 126384
+
+brett@bmctherapies.co.uk
+
+## Will
+
+![Will](/media/WillSkinner.jpeg "Title: Will"){fig-alt="Picture of Will."}
+
+Will Skinner BSc, MSST
+
+info@willsinjuryrehab.co.uk
+
+07835854023 
+
+[Website](https://www.willsinjuryrehab.co.uk)
+
+Sports Therapist with an interest in injury assessment and rehabilitation, and the goal of not only reducing pain but also with the focus to return to sport, bridging the gap between pain and performance. Experience ranging from working with athletes in David Lloyd’s clubs, to DFS and NHS Occupational Health. Sports Massage also available
+
+## Mark
+
+![Mark](/media/Mheff.jpg "Title: Mark"){fig-alt="Picture of Mark."}
+
+Mark Heffernan
+
+Chartered Physiotherapist
+
+BSc (Hons) MCSP
+
+07818 192745
+
+I have been working at Bob Prowse for a few years now. Although Physiotherapy is my main occupation, I also treat patients using sports massage, back manipulation and acupuncture. I enjoy my job as it is extremely rewarding. I like to keep fit too, you can often find me training in the gym with headphones, in the zone!
+
+## Mitch
+
+![Mitch](/media/mason.jpeg "Title: Mitch"){fig-alt="Picture of Mitch."}
+
+Mitch Mason
+
+Mason's Sport and Remedial Massage
+
+Email: MSRM_therapy@outlook.com
+
+![Treatment Room](/media/treatment4.jpeg "Title: Treatment Room"){fig-alt="Picture of Treatment Room."}
+
+:::
+
+## Supplements
+
+Training is demanding. It takes everything – time, money, patience and care. Although most of these things are general and you adapt your needs to your lifestyle there is one thing that quite often gets forgotten. Correct nutrition.
+
+This can mean anything like a simple dietary adjustment, such as not so many biscuits and a little less sugar in your tea. To make sure that everything you use during a session is replaced, you may need to consume more protein to check that stores are topped up for the repairing phase. Joints need extra help to look after the serious athletes knees or the beginner with an injury, your macro and micro nutrients need to be replenished to keep the endless list of tiny changes occuring correctly and of course sometimes we all need that extra boost of energy or nudge of help with our metabolism!
+
+Our most popular brands are Phd, Reflex, Powerbar, USN and Boditronics. We sell the entire range of each. If you are not sure what you need, then feel free to have a conversation with a member of staff on 01622 683388. To order you will need to make your payment upfront to a member of staff and it will be placed on the order sheet.
+
+![Supplements](/media/protein.jpg "Title: Nutrition"){fig-alt="Rack of products."}
+
+## Clothing
+
+Personalised Clothing Range
+
+Style your way in or out of the gym!
+
+To match your wonderful figure gained from working out, order an item of clothing that is your chosen colour, your chosen style, your chosen nickname, even the type of print can be decided by you!
+
+We offer anything from training vests to jog bottoms or t-shirts to jumpers. Maybe you are looking for a personlised towel or sports drink bottle? The only desicion you need to make is what to have and how cool do you want it to look?!
+
+Find a member of staff and they will hand you the catalogue or if you see someone wearing something you like, order one just like it.
+
+Items can take up to about 10 days to be received, so don't delay! Most items come in Small, Medium, Large, Extra Large and XXL.
+Want one for FREE???
+We give away T-shirts for any members who introduce a new member for a year. It can be friend or family, anyone you like! It is our loyalty scheme!
+
+So what T-shirt size are you?!
+
+Call us now on 01622 683388 to book a visit or your free trial
+
+![Clothing](/media/protein.jpg "Title: Merch"){fig-alt="Rack of clothing."}
+
+:::

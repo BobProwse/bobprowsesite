@@ -1,0 +1,21 @@
+---
+title: "Bob Prowse Health Club 01622 683388"
+subtitle: "The Original Maidstone Gym"
+execute:
+    echo: false
+---
+
+Opening Times
+```{python}
+import pandas as pd
+from itables import show
+from itables import options
+options.autoWidth = False
+# options.searching = False
+options.paging = False
+options.keys = False
+from IPython.display import Markdown
+ottable = pd.read_csv("openingtimes.csv")
+show(ottable,maxBytes=0)
+```
+<iframe style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2496.7295096369994!2d0.525116916097601!3d51.260889479595406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47df318815a4a5a3%3A0x22794124b89f5740!2sBob+Prowse+Health+Club+Ltd!5e0!3m2!1sen!2suk!4v1476202318014" width="600" height="450" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

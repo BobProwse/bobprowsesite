@@ -1,0 +1,53 @@
+---
+title: "App"
+format: html
+---
+
+[Apple Store](https://www.google.com/url?sa=i&source=web&rct=j&url=https://apps.apple.com/gb/app/everfit-train-smart/id1438926364&ved=2ahUKEwit7qCzxIORAxWCUkEAHdqqFbAQy_kOegQIAxAB&opi=89978449&cd&psig=AOvVaw0-E5-UkZu1k42ZSN3l9CDN&ust=1763824491272000)
+
+[Google Play Store](https://www.google.com/url?sa=i&source=web&rct=j&url=https://play.google.com/store/apps/details?id%3Dcom.everfit%26hl%3Den_IN&ved=2ahUKEwit7qCzxIORAxWCUkEAHdqqFbAQy_kOegQIBRAB&opi=89978449&cd&psig=AOvVaw0-E5-UkZu1k42ZSN3l9CDN&ust=1763824491272000)
+
+::: {.panel-tabset}
+
+## Training
+
+![5Ss](/media/AllSs.001.jpeg "Title: Motor Abilities"){fig-alt="Diagram of motor abilities."}
+
+You could study Sport Science and training methods for a lifetime but you do not need to as our instructors have a vast range of knowledge and experience in the industry.
+
+If you need indivdual input to keep you on track, want to improve a specific area, or have reached a plateau with other programmes then choose the Personal Trainer tab and get individual assessment and programme design delivered to an app on your phone.
+
+If you are generally fit and well, do not have any medical conditions and are a newcomer to this type of physical training then choose the Pathways tab and follow a progressive programme from Level 1 Unit 1 or jump in at an appropriate level. Programmes are laid out week by week, day by day and exercise by exercise. There is an itroductory program to check your readiness for Level 1, it will help in deciding if you need individual advice. They are available as an app on your phone.
+
+
+
+## Pathways
+Follow a pre defined programme that follows on from your induction training or a programme that improves a specific component of fitness.
+
+As no assessment has been made of specific goals the initial Pathway programmes aim to train all areas. One way of doing this is to target the bio-motor abilities as shown in the diagram. The overlaps between each identifiable ability (Speed, Strength, Stamina, Suppleness, Skill) lead to variations that can each be targeted by a training Means (Free weights, body weight, dumbbells etc).
+
+There is a limit to the amount of time before a training programme becomes familiar and the training gains plateau. This is often refered to in the books (on the theory shelf in the office) as a maximum macro-cycle being about 55 days. The Pathway programmes change the exercise / loading in a shorter timescale to avoid this problem. They are available in Levels that progress in exercise specificity and training load.
+
+Find the Pathways programmes here:
+Everfit
+
+[Level 1 Unit 1 for 3 days a week](https://coach.everfit.io/package/PJ096675)
+
+[Level 1 Unit 1 for 6 days a week](https://coach.everfit.io/package/AA162532)
+
+Train Heroic - Coming Soon
+
+## Personal Trainer
+Get an individual programme designed just for your needs and current abilities.
+
+Our Personal Trainers are as follows:
+Courtney Welham
+App and contact links
+
+Simon Mercer
+App and contact Links
+
+Paul Slythe
+App and contact links
+
+:::

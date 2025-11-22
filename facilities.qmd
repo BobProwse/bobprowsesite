@@ -1,0 +1,38 @@
+---
+title: "Facilities"
+format: html
+---
+
+::: {.panel-tabset}
+
+## Barber
+
+The Barber Shop has been re-furbished and Kieran and Katie are taking appointments now. 
+Call 07933 286 453.
+[Book Online](https://booksy.com/en-gb/50344_old-oak-gentlemen-s-barbershop_barber_881294_maidstone)
+
+![Kieran](/media/Kieran.jpeg "Title: Kieran"){fig-alt="Picture of Kieran."}
+
+![Katie](/media/katie.jpeg "Title: Katie"){fig-alt="Picture of Katie."}
+
+My name is Katie and I've worked here at the Old Oak Gentlemen's Barbershop since January 2023. I qualified as a barber in 2017 after completing my training in Maidstone. I previously worked in the same shop from age 15 as the Saturday helper and this is where my love for barbering started. I knew I wanted to be a stylist one day. I get to meet so many new people day to day, as well as being able to create a trusting relationship with all my clients to ensure they always walk out looking and feeling their best! I am confident with all hairstyles from skin fades to scissor cuts and from toddlers to Seniors. I can take on a few new clients so don't hesitate to check out my instagram (@katiesfades) and DM with any questions you may have.
+
+![Barber](/media/bshop1.jpeg "Title: Barber"){fig-alt="Picture of Barber."}
+![Barber2](/media/bshop2.jpeg "Title: Barber"){fig-alt="Picture of Barber."}
+
+## Gym
+
+A notable feature of Bob Prowse Health Club is the availability of additional facilities, which both complement and enhance the already high quality of service offered at this club.
+
+These facilities include a fully equiped Main Gym, an Aerobic room, "War Room", Massage and Physiotherapy rooms, Sauna and a Lounge with a Supplements bar. We work with a number of partners to provide these services. See the Practitioners page to view the current details.
+
+See the gallery of photos below for an overview of our equipment and facilities.
+![Gym](/media/gymfront.jpeg "Title: Gym"){fig-alt="Picture of Gym."}
+![Aerobic](/media/aerobicmachines.jpeg "Title: Aerobics"){fig-alt="Picture of Aerobics."}
+![WarRoom](/media/gymbenches.jpg "Title: War Room"){fig-alt="Picture of War Room."}
+
+## Rooms
+Rooms for hire.
+
+![Physio](/media/treatment.jpeg "Title: Physio"){fig-alt="Picture of Physio."}
+:::

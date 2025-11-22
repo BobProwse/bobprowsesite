@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Bob Prowse Health Club"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Coaches"
+        href: coaches.qmd
+      - text: "App"
+        href: app.qmd
+      - text: "Training"
+        href: training.qmd
+      - text: "Gym"
+        href: gym.qmd
+      - text: "Services"
+        href: services.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/i/flow/login?redirect_after_login=%2FBobProwseGym
+      - icon: instagram
+        href: https://www.instagram.com/bobprowsehealthclub/?hl=en
+      - icon: facebook
+        href: https://www.facebook.com/BobProwseGym/
+
+  
+format:
+  html:
+    theme: 
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+
+
+

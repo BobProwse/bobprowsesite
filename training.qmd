@@ -1,0 +1,8 @@
+---
+title: "Training"
+format: html
+---
+
+```{=html}
+<iframe width="1024" height="2048" src="https://pro.everfit.io/coach-chris" title="Webpage example"></iframe>
+```
