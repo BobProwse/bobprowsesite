@@ -12,9 +12,9 @@ A notable feature of Bob Prowse Health Club is the availability of additional fa
 These facilities include a fully equiped Main Gym, an Aerobic room, "War Room", Massage and Physiotherapy rooms, Sauna and a Lounge with a Supplements bar. We work with a number of partners to provide these services. See the Practitioners page to view the current details.
 
 See the gallery of photos below for an overview of our equipment and facilities.
-![Gym](/media/gymfront.jpeg "Title: Gym"){fig-alt="Picture of Gym."}
-![Aerobic](/media/aerobicmachines.jpeg "Title: Aerobics"){fig-alt="Picture of Aerobics."}
-![WarRoom](/media/gymbenches.jpg "Title: War Room"){fig-alt="Picture of War Room."}
+![Gym](/media/site3.jpg "Title: Gym"){fig-alt="Picture of Gym."}
+![Aerobic](/media/aroom1.jpg "Title: Aerobics"){fig-alt="Picture of Aerobics."}
+![WarRoom](/media/warroom.JPG "Title: War Room"){fig-alt="Picture of War Room."}
 
 ## Rooms
 Rooms for hire.

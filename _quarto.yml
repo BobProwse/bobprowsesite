@@ -18,6 +18,8 @@ website:
         href: gym.qmd
       - text: "Services"
         href: services.qmd
+      - text: "Join"
+        href: join.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/i/flow/login?redirect_after_login=%2FBobProwseGym
