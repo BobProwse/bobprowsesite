@@ -3,5 +3,4 @@ title: "Join"
 format: html
 ---
 
-clubwise 
-everfit
+![Clubwise Page](/media/temp1.png "Title: Clubwise Joining Page"){fig-alt="Joining Page"}

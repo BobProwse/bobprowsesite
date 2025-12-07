@@ -3,13 +3,15 @@ title: "App"
 format: html
 ---
 
-![ ](/media/appstore.png "Title: Download from Apple"){width=225 height=80}[Apple Store](https://www.google.com/url?sa=i&source=web&rct=j&url=https://apps.apple.com/gb/app/everfit-train-smart/id1438926364&ved=2ahUKEwit7qCzxIORAxWCUkEAHdqqFbAQy_kOegQIAxAB&opi=89978449&cd&psig=AOvVaw0-E5-UkZu1k42ZSN3l9CDN&ust=1763824491272000)
+![ ](/media/appstore.png "Title: Download from Apple"){width=225 height=80} [Download for IOS](https://www.google.com/url?sa=i&source=web&rct=j&url=https://apps.apple.com/gb/app/everfit-train-smart/id1438926364&ved=2ahUKEwit7qCzxIORAxWCUkEAHdqqFbAQy_kOegQIAxAB&opi=89978449&cd&psig=AOvVaw0-E5-UkZu1k42ZSN3l9CDN&ust=1763824491272000)
 
-![ ](/media/playstore.png "Title: Download from Google"){width=250 height=100}[Google Play Store](https://www.google.com/url?sa=i&source=web&rct=j&url=https://play.google.com/store/apps/details?id%3Dcom.everfit%26hl%3Den_IN&ved=2ahUKEwit7qCzxIORAxWCUkEAHdqqFbAQy_kOegQIBRAB&opi=89978449&cd&psig=AOvVaw0-E5-UkZu1k42ZSN3l9CDN&ust=1763824491272000)
+![ ](/media/playstore.png "Title: Download from Google"){width=250 height=100}[Download for Android](https://www.google.com/url?sa=i&source=web&rct=j&url=https://play.google.com/store/apps/details?id%3Dcom.everfit%26hl%3Den_IN&ved=2ahUKEwit7qCzxIORAxWCUkEAHdqqFbAQy_kOegQIBRAB&opi=89978449&cd&psig=AOvVaw0-E5-UkZu1k42ZSN3l9CDN&ust=1763824491272000)
+
+Download Our App for your device from the links above.
 
 ::: {.panel-tabset}
 
-## Training
+## General Physical Preparation
 
 ![5Ss](/media/AllSs.001.jpeg "Title: Motor Abilities"){fig-alt="Diagram of motor abilities."}
 
@@ -17,10 +19,10 @@ You could study Sport Science and training methods for a lifetime but you do not
 
 If you need indivdual input to keep you on track, want to improve a specific area, or have reached a plateau with other programmes then choose the Coaches tab and get individual assessment and programme design.
 
-If you are generally fit and well, do not have any medical conditions and are a newcomer to this type of physical training then choose the Pathways tab and follow a progressive programme from Level 1 Unit 1 or jump in at an appropriate level. Programmes are laid out week by week, day by day and exercise by exercise. There is an itroductory program to check your readiness for Level 1, it will help in deciding if you need individual advice. They are available as the Everfit app on your phone or other device using the store links at the top of the page.
+If you are generally fit and well, do not have any medical conditions and are a newcomer to this type of physical training then choose the Pathways tab and follow a progressive programme from Level 1 or jump in at an appropriate level. Programmes are laid out week by week, day by day and exercise by exercise. They are available as the Everfit app on your phone or other device using the store links at the top of the page.
 
 ## Pathways
-Follow a pre defined programme that follows on from your induction training or a programme that improves a specific component of fitness.
+Follow a pre defined programme.
 
 As no assessment has been made of specific goals the initial Pathway programmes aim to train all areas. One way of doing this is to target the bio-motor abilities as shown in the diagram. The overlaps between each identifiable ability (Speed, Strength, Stamina, Suppleness, Skill) lead to variations that can each be targeted by a training Means (Free weights, body weight, dumbbells etc).
 
@@ -28,8 +30,8 @@ There is a limit to the amount of time before a training programme becomes famil
 
 Find the Pathways programmes here:
 
-[Level 1 Unit 1 for 3 days a week](https://coach.everfit.io/package/PJ096675)
+[General Physical Preparation 1 training 3 days a week](https://coach.everfit.io/package/PJ096675)
 
-[Level 1 Unit 1 for 6 days a week](https://coach.everfit.io/package/AA162532)
+[General Physical Preparation 1 training 6 days a week](https://coach.everfit.io/package/AA162532)
 
 :::
