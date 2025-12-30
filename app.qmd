@@ -11,17 +11,17 @@ Download Our App for your device from the links above.
 
 ::: {.panel-tabset}
 
-## General Physical Preparation
+## Personal Training
 
 ![5Ss](/media/AllSs.001.jpeg "Title: Motor Abilities"){fig-alt="Diagram of motor abilities."}
 
 You could study Sport Science and training methods for a lifetime but you do not need to as our instructors have a vast range of knowledge and experience in the industry.
 
-If you need indivdual input to keep you on track, want to improve a specific area, or have reached a plateau with other programmes then choose the Coaches tab and get individual assessment and programme design.
+If you need indivdual input to keep you on track, want to improve a specific area, or have reached a plateau with other programmes then choose the [Coaches](/coaches.qmd) tab and get individual assessment and programme design.
 
-If you are generally fit and well, do not have any medical conditions and are a newcomer to this type of physical training then choose the Pathways tab and follow a progressive programme from Level 1 or jump in at an appropriate level. Programmes are laid out week by week, day by day and exercise by exercise. They are available as the Everfit app on your phone or other device using the store links at the top of the page.
+If you are generally fit and well, do not have any medical conditions and are a newcomer to this type of physical training then choose the General Physical Preparation tab and follow a progressive programme from Level 1 or jump in at an appropriate level. Programmes are laid out week by week, day by day and exercise by exercise. They are available as the Everfit app on your phone or other device using the store links at the top of the page.
 
-## Pathways
+## General Physical Preparation {#sec-app-gpp}
 Follow a pre defined programme.
 
 As no assessment has been made of specific goals the initial Pathway programmes aim to train all areas. One way of doing this is to target the bio-motor abilities as shown in the diagram. The overlaps between each identifiable ability (Speed, Strength, Stamina, Suppleness, Skill) lead to variations that can each be targeted by a training Means (Free weights, body weight, dumbbells etc).

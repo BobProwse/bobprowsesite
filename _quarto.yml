@@ -6,6 +6,7 @@ website:
   title: "Bob Prowse Health Club"
   navbar:
     background: primary
+    logo: /media/logo.JPG
     search: true
     left:
       - text: "Coaches"
