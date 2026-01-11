@@ -3,4 +3,7 @@ title: "Join"
 format: html
 ---
 
-![Clubwise Page](/media/temp1.png "Title: Clubwise Joining Page"){fig-alt="Joining Page"}
+Join online with our memberhsip partner ClubWise
+
+Coming Soon
+<!-- [Join Online](https://secure6.clubwise.com/bobprowsehealthclub/pos.asp) -->
